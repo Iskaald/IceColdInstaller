@@ -1,0 +1,8 @@
+{
+  "name": "IceCold.Installer.Editor",
+  "references": [
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}
