@@ -1,6 +1,6 @@
 {
   "name": "com.iskaald.installer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "IceCold Installer",
   "description": "Installer window for Ice Cold modules.",
   "unity": "2021.3",
