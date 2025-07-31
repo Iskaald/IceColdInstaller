@@ -31,7 +31,7 @@ This is the cleanest and recommended way to install the package. It keeps the pa
 
 If you prefer, you can install the package manually.
 
-1.  Download the latest release `.zip` file from the [Releases page](https://github.com/Iskaald/IceColdInstaller.git/releases).
+1.  Download the latest release `.zip` file from the [Releases page](https://github.com/Iskaald/IceColdInstaller/releases).
 2.  Unzip the file.
 3.  Copy the entire `IceColdInstaller` folder into your project's `Assets` or `Packages` directory.
 
