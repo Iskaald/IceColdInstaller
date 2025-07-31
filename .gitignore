@@ -42,4 +42,6 @@ package-lock.json
 # Python cache
 __pycache__/
 *.pyc
+
 *.zip
+*.zip.meta
